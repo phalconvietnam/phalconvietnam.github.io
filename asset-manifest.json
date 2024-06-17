@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "./static/css/main.30539d2b.css",
-    "main.js": "./static/js/main.c98a34ac.js",
+    "main.js": "./static/js/main.c513c83e.js",
     "static/media/iptvlogo.png": "./static/media/iptvlogo.68bc34c2b6d4f95f72f0.png",
     "static/media/img1.png": "./static/media/img1.b7e483d618a9ebb97df4.png",
     "index.html": "./index.html",
     "main.30539d2b.css.map": "./static/css/main.30539d2b.css.map",
-    "main.c98a34ac.js.map": "./static/js/main.c98a34ac.js.map"
+    "main.c513c83e.js.map": "./static/js/main.c513c83e.js.map"
   },
   "entrypoints": [
     "static/css/main.30539d2b.css",
-    "static/js/main.c98a34ac.js"
+    "static/js/main.c513c83e.js"
   ]
 }
