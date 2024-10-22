@@ -122,7 +122,7 @@
 		<color>55ffffff</color>
 		<Icon>
 			<href>https://phalconvietnam.github.io/265_prediction00_006000.png</href>
-			<viewBoundScale>0.8</viewBoundScale>
+			<viewBoundScale>0.4</viewBoundScale>
 		</Icon>
 		<LatLonBox>
 			<north>10.5562315631369</north>
@@ -461,7 +461,8 @@
 			<west>107.557268212244</west>
 		</LatLonBox>
 	</GroundOverlay>
-
+</Folder>
+<Folder>
 	<name>20JUNE2023 LTE Coverage by Throughput (DL) 1Mbps_20W_Res200m</name>
 	<Style>
 		<ListStyle>
@@ -581,7 +582,7 @@
 		<color>55ffffff</color>
 		<Icon>
 			<href>https://phalconvietnam.github.io/prediction00_006000.png</href>
-			<viewBoundScale>0.9</viewBoundScale>
+			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
 			<north>10.5453792742098</north>
