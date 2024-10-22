@@ -102,36 +102,7 @@
 				<west>103.827984381125</west>
 			</LatLonBox>
 		</GroundOverlay>
-		<GroundOverlay>
-			<name>20JUNE2023 LTE Coverage by Throughput (DL) 256Kbps_20W_Res200m</name>
-			<Region>
-				<LatLonAltBox>
-					<north>10.5562315631369</north>
-					<south>8.70289342061357</south>
-					<east>105.707452742086</east>
-					<west>103.835589030506</west>
-					<minAltitude>0</minAltitude>
-					<maxAltitude>0</maxAltitude>
-				</LatLonAltBox>
-				<Lod>
-					<minLodPixels>128</minLodPixels>
-					<maxLodPixels>-1</maxLodPixels>
-					<minFadeExtent>0</minFadeExtent>
-					<maxFadeExtent>0</maxFadeExtent>
-				</Lod>
-			</Region>
-			<color>55ffffff</color>
-			<Icon>
-				<href>https://phalconvietnam.github.io/test/prediction00_006000.png</href>
-				<viewBoundScale>0.8</viewBoundScale>
-			</Icon>
-			<LatLonBox>
-				<north>10.5562315631369</north>
-				<south>8.70289342061357</south>
-				<east>105.707452742086</east>
-				<west>103.835589030506</west>
-			</LatLonBox>
-		</GroundOverlay>
+		
 		<GroundOverlay>
 			<name>20JUNE2023 LTE Coverage by Throughput (DL) 256Kbps_20W_Res200m</name>
 			<Region>
@@ -592,6 +563,38 @@
 				<west>103.835629837629</west>
 			</LatLonBox>
 		</GroundOverlay>
+<GroundOverlay>
+			<name>20JUNE2023 LTE Coverage by Throughput (DL) 256Kbps_20W_Res200m</name>
+			<Region>
+				<LatLonAltBox>
+					<north>10.5562315631369</north>
+					<south>8.70289342061357</south>
+					<east>105.707452742086</east>
+					<west>103.835589030506</west>
+					<minAltitude>0</minAltitude>
+					<maxAltitude>0</maxAltitude>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>128</minLodPixels>
+					<maxLodPixels>-1</maxLodPixels>
+					<minFadeExtent>0</minFadeExtent>
+					<maxFadeExtent>0</maxFadeExtent>
+				</Lod>
+			</Region>
+			<color>55ffffff</color>
+			<Icon>
+				<href>https://phalconvietnam.github.io/test/prediction00_006000.png</href>
+				<viewBoundScale>0.8</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>10.5562315631369</north>
+				<south>8.70289342061357</south>
+				<east>105.707452742086</east>
+				<west>103.835589030506</west>
+			</LatLonBox>
+		</GroundOverlay>
+
+		
 		<GroundOverlay>
 			<name>20JUNE2023 LTE Coverage by Throughput (DL) 1Mbps_20W_Res200m</name>
 			<Region>
