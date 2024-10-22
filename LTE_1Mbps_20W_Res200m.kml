@@ -581,7 +581,7 @@
 		<color>55ffffff</color>
 		<Icon>
 			<href>https://phalconvietnam.github.io/prediction00_006000.png</href>
-			<viewBoundScale>0.8</viewBoundScale>
+			<viewBoundScale>0.9</viewBoundScale>
 		</Icon>
 		<LatLonBox>
 			<north>10.5453792742098</north>
