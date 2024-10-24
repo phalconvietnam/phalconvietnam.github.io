@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
-	<name>3g_lte.kml</name>
+	<name>3g_lte_c_t.kml</name>
 	<Style id="sn_noicon">
 		<IconStyle>
 			<Icon>
@@ -804,7 +804,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_000000_1.png</href>
+					<href>prediction00_000000.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -834,7 +834,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_001000_1.png</href>
+					<href>prediction00_001000.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -864,7 +864,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_006000_1.png</href>
+					<href>prediction00_006000.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -894,7 +894,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_007000_1.png</href>
+					<href>prediction00_007000.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -924,7 +924,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_000001_1.png</href>
+					<href>prediction00_000001.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -954,7 +954,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_001001_1.png</href>
+					<href>prediction00_001001.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -984,7 +984,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_002001_1.png</href>
+					<href>prediction00_002001.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1014,7 +1014,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_003001_1.png</href>
+					<href>prediction00_003001.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1044,7 +1044,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_005001_1.png</href>
+					<href>prediction00_005001.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1074,7 +1074,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_006001_1.png</href>
+					<href>prediction00_006001.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1104,7 +1104,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_007001_1.png</href>
+					<href>prediction00_007001.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1134,7 +1134,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_000002_1.png</href>
+					<href>prediction00_000002.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1164,7 +1164,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_001002_1.png</href>
+					<href>prediction00_001002.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1194,7 +1194,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_003002_1.png</href>
+					<href>prediction00_003002.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1224,7 +1224,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_004002_1.png</href>
+					<href>prediction00_004002.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1254,7 +1254,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_005002_1.png</href>
+					<href>prediction00_005002.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1284,7 +1284,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_006002_1.png</href>
+					<href>prediction00_006002.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1314,7 +1314,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_004003_1.png</href>
+					<href>prediction00_004003.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1344,7 +1344,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_005003_1.png</href>
+					<href>prediction00_005003.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1374,7 +1374,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_006003_1.png</href>
+					<href>prediction00_006003.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1414,7 +1414,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_000000_2.png</href>
+					<href>prediction00_000000_0.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1444,7 +1444,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_001000_2.png</href>
+					<href>prediction00_001000_0.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1474,7 +1474,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_006000_2.png</href>
+					<href>prediction00_006000_0.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1504,7 +1504,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_007000_2.png</href>
+					<href>prediction00_007000_0.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1534,7 +1534,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_000001_2.png</href>
+					<href>prediction00_000001_0.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1564,7 +1564,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_001001_2.png</href>
+					<href>prediction00_001001_0.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1594,7 +1594,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_002001_2.png</href>
+					<href>prediction00_002001_0.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1624,7 +1624,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_003001_2.png</href>
+					<href>prediction00_003001_0.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1654,7 +1654,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_005001_2.png</href>
+					<href>prediction00_005001_0.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1684,7 +1684,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_006001_2.png</href>
+					<href>prediction00_006001_0.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1714,7 +1714,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_007001_2.png</href>
+					<href>prediction00_007001_0.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1744,7 +1744,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_000002_2.png</href>
+					<href>prediction00_000002_0.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1774,7 +1774,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_001002_2.png</href>
+					<href>prediction00_001002_0.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1804,7 +1804,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_003002_2.png</href>
+					<href>prediction00_003002_0.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1834,7 +1834,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_004002_2.png</href>
+					<href>prediction00_004002_0.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1864,7 +1864,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_005002_2.png</href>
+					<href>prediction00_005002_0.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1894,7 +1894,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_006002_2.png</href>
+					<href>prediction00_006002_0.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1924,7 +1924,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_004003_2.png</href>
+					<href>prediction00_004003_0.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1954,7 +1954,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_005003_2.png</href>
+					<href>prediction00_005003_0.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
@@ -1984,7 +1984,7 @@
 				</Region>
 				<color>55ffffff</color>
 				<Icon>
-					<href>https://phalconvietnam.github.io/test4/prediction00_006003_2.png</href>
+					<href>prediction00_006003_0.png</href>
 					<viewBoundScale>0.8</viewBoundScale>
 				</Icon>
 				<LatLonBox>
