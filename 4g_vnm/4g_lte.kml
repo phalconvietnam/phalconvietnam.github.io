@@ -2410,7 +2410,6 @@
 		</LatLonBox>
 	</GroundOverlay>
 </Folder>
-
 <Folder>
 	<name>LTE Throughput (DL) 1Mbps</name>
 	<open>1</open>
