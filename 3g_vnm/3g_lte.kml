@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Folder>
 	<name>UMTS Mega Onair 21OCT2024 Coverage 95dbm</name>
-	<open>1</open>
 	<Style>
 		<ListStyle>
 			<listItemType>check</listItemType>
@@ -30,7 +29,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/prediction00_000000.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/prediction00_000000.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -60,7 +59,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/prediction00_001000.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/prediction00_001000.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -90,7 +89,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/prediction00_006000.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/prediction00_006000.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -120,7 +119,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/prediction00_007000.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/prediction00_007000.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -150,7 +149,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/prediction00_000001.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/prediction00_000001.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -180,7 +179,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/prediction00_001001.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/prediction00_001001.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -210,7 +209,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/prediction00_002001.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/prediction00_002001.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -240,7 +239,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/prediction00_003001.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/prediction00_003001.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -270,7 +269,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/prediction00_005001.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/prediction00_005001.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -300,7 +299,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/prediction00_006001.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/prediction00_006001.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -330,7 +329,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/prediction00_007001.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/prediction00_007001.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -360,7 +359,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/prediction00_000002.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/prediction00_000002.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -390,7 +389,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/prediction00_001002.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/prediction00_001002.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -420,7 +419,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/prediction00_003002.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/prediction00_003002.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -450,7 +449,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/prediction00_004002.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/prediction00_004002.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -480,7 +479,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/prediction00_005002.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/prediction00_005002.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -510,7 +509,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/prediction00_006002.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/prediction00_006002.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -540,7 +539,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/prediction00_004003.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/prediction00_004003.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -570,7 +569,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/prediction00_005003.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/prediction00_005003.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -600,7 +599,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/prediction00_006003.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/prediction00_006003.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -614,6 +613,7 @@
 
 <Folder>
 	<name>3G WCDMA Throughput (DL) 1Mbps</name>	
+	<open>1</open>
 	<Style>
 		<ListStyle>
 			<listItemType>check</listItemType>
@@ -641,7 +641,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/t_prediction00_000000.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/t_prediction00_000000.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -671,7 +671,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/t_prediction00_001000.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/t_prediction00_001000.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -701,7 +701,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/t_prediction00_006000.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/t_prediction00_006000.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -731,7 +731,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/t_prediction00_007000.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/t_prediction00_007000.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -761,7 +761,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/t_prediction00_000001.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/t_prediction00_000001.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -791,7 +791,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/t_prediction00_001001.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/t_prediction00_001001.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -821,7 +821,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/t_prediction00_002001.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/t_prediction00_002001.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -851,7 +851,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/t_prediction00_003001.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/t_prediction00_003001.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -881,7 +881,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/t_prediction00_005001.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/t_prediction00_005001.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -911,7 +911,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/t_prediction00_006001.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/t_prediction00_006001.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -941,7 +941,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/t_prediction00_007001.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/t_prediction00_007001.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -971,7 +971,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/t_prediction00_000002.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/t_prediction00_000002.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -1001,7 +1001,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/t_prediction00_001002.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/t_prediction00_001002.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -1031,7 +1031,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/t_prediction00_003002.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/t_prediction00_003002.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -1061,7 +1061,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/t_prediction00_004002.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/t_prediction00_004002.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -1091,7 +1091,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/t_prediction00_005002.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/t_prediction00_005002.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -1121,7 +1121,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/t_prediction00_006002.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/t_prediction00_006002.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -1151,7 +1151,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/t_prediction00_004003.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/t_prediction00_004003.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -1181,7 +1181,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/t_prediction00_005003.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/t_prediction00_005003.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -1211,7 +1211,7 @@
 		</Region>
 		<color>55ffffff</color>
 		<Icon>
-			<href>https://phalconvietnam.github.io/3g_vm/t_prediction00_006003.png</href>
+			<href>https://phalconvietnam.github.io/3g_vnm/t_prediction00_006003.png</href>
 			<viewBoundScale>0.8</viewBoundScale>
 		</Icon>
 		<LatLonBox>
