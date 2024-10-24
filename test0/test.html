@@ -38,10 +38,10 @@ function initMap() {
 	const infowindow = new google.maps.InfoWindow();
 	  georssLayer.setMap(map);
 		georssLayer.addListener("click", (kmlEvent) => {
-		const text = "XXX";
-		const description = "YYYYYYYYYYYYY";
+		
+		//const description = kmlEvent.featureData.description;
 		const name = kmlEvent.featureData.name;
-		infowindow.setContent("<b>" + name + "</b><br>" + description + "<br>" + text);
+		infowindow.setContent("<b>" + name);
 		infowindow.setPosition(kmlEvent.latLng)
 		infowindow.open(map);
 	  });
